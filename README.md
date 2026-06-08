@@ -15,6 +15,7 @@ Features
     Projects
     Experience
     Certifications
+    
 📈 ATS Score Analysis
     Calculate overall ATS score
     Section-wise evaluation:
@@ -97,7 +98,7 @@ GROQ_API_KEY=your_api_key_here
 Run Application
 streamlit run app.py
 
-Future Enhancements
+Future Enhancements:
     Multi-format resume support (DOCX, TXT),
     Resume ranking against multiple job descriptions,
     AI-generated resume rewriting,
