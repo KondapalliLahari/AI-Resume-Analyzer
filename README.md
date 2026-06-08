@@ -114,6 +114,7 @@ Run Application
 streamlit run app.py
 
 Future Enhancements:
+
     Multi-format resume support (DOCX, TXT),
     Resume ranking against multiple job descriptions,
     AI-generated resume rewriting,
