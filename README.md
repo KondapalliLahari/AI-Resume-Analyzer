@@ -80,29 +80,10 @@ User uploads a resume.
     Personalized course recommendations are generated.
     AI Career Assistant provides career guidance.
     Detailed PDF report is generated.
-Folder Structure
-AI-Resume-Analyzer/
-│
-├── app.py
-├── requirements.txt
-├── .env
-│
-├── src/
-│   ├── parser.py
-│   ├── preprocess.py
-│   ├── skills.py
-│   ├── semantic_matcher.py
-│   ├── section_parser.py
-│   ├── advanced_matcher.py
-│   ├── chatbot.py
-│   └── course_recommender.py
-│
-├── assets/
-├── reports/
-└── README.md
+    
 Installation
 Clone Repository
-git clone https://github.com/yourusername/AI-Resume-Analyzer.git
+git clone https://github.com/KondapalliLahari/AI-Resume-Analyzer.git
 
 cd AI-Resume-Analyzer
 Install Dependencies
