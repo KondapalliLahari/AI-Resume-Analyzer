@@ -8,6 +8,7 @@ The project is built using Python, Streamlit, Natural Language Processing (NLP),
 Features:
 
 📄 Resume Analysis:
+
     Upload resume in PDF format
     Extract resume text automatically
     Parse resume sections such as:
@@ -18,6 +19,7 @@ Features:
     Certifications
 
 📈 ATS Score Analysis:
+
     Calculate overall ATS score
     Section-wise evaluation:
     Skills Match
@@ -27,6 +29,7 @@ Features:
     Interactive ATS score breakdown chart
 
 🎯 Skill Gap Analysis:
+
     Identify matched skills
     Detect missing skills required for the target role
     Calculate overall skill gap percentage
@@ -76,7 +79,7 @@ Tech Stack
         Pandas
     PDF Generation
         ReportLab
-        
+
 Project Workflow
 User uploads a resume.
     Resume text is extracted and cleaned.
