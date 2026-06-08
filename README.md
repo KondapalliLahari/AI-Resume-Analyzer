@@ -80,7 +80,7 @@ User uploads a resume.
     Personalized course recommendations are generated.
     AI Career Assistant provides career guidance.
     Detailed PDF report is generated.
-    
+
 Installation
 Clone Repository
 git clone https://github.com/KondapalliLahari/AI-Resume-Analyzer.git
@@ -98,10 +98,10 @@ Run Application
 streamlit run app.py
 
 Future Enhancements
-    Multi-format resume support (DOCX, TXT)
-    Resume ranking against multiple job descriptions
-    AI-generated resume rewriting
-    Interview question generation
-    Resume keyword optimization
-    LinkedIn profile analysis
+    Multi-format resume support (DOCX, TXT),
+    Resume ranking against multiple job descriptions,
+    AI-generated resume rewriting,
+    Interview question generation,
+    Resume keyword optimization,
+    LinkedIn profile analysis,
     Industry-specific ATS scoring
