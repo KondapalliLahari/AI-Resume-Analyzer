@@ -5,7 +5,8 @@ Overview
 
 The project is built using Python, Streamlit, Natural Language Processing (NLP), and Large Language Models (LLMs).
 
-Features
+Features:
+
 📄 Resume Analysis:
     Upload resume in PDF format
     Extract resume text automatically
@@ -24,11 +25,13 @@ Features
     Experience Relevance
     Certification Relevance
     Interactive ATS score breakdown chart
+
 🎯 Skill Gap Analysis:
     Identify matched skills
     Detect missing skills required for the target role
     Calculate overall skill gap percentage
     Visual skill chips for easy understanding
+
 📚 AI Course Recommendations:
     Generate personalized course recommendations
     Analyze:
@@ -36,11 +39,13 @@ Features
     Missing skills
     Job description requirements
     Suggest learning paths to improve employability
+
 🤖 AI Career Assistant:
     Interactive chatbot powered by LLM
     Career guidance and interview preparation
     Resume improvement suggestions
     Skill development recommendations
+
 📄 Professional PDF Report:
 
 Generated report includes:
@@ -55,6 +60,7 @@ Generated report includes:
     Executive Summary
     Report Generation Timestamp
 Tech Stack
+
     Frontend
         Streamlit
     Backend
@@ -70,6 +76,7 @@ Tech Stack
         Pandas
     PDF Generation
         ReportLab
+        
 Project Workflow
 User uploads a resume.
     Resume text is extracted and cleaned.
