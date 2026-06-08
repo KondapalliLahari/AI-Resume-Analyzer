@@ -36,6 +36,7 @@ Features:
     Visual skill chips for easy understanding
 
 📚 AI Course Recommendations:
+
     Generate personalized course recommendations
     Analyze:
     Current resume skills
@@ -44,6 +45,7 @@ Features:
     Suggest learning paths to improve employability
 
 🤖 AI Career Assistant:
+
     Interactive chatbot powered by LLM
     Career guidance and interview preparation
     Resume improvement suggestions
@@ -81,6 +83,7 @@ Tech Stack
         ReportLab
 
 Project Workflow
+
 User uploads a resume.
     Resume text is extracted and cleaned.
     Skills and resume sections are identified.
@@ -93,6 +96,7 @@ User uploads a resume.
     Detailed PDF report is generated.
 
 Installation
+
 Clone Repository
 git clone https://github.com/KondapalliLahari/AI-Resume-Analyzer.git
 
