@@ -82,9 +82,10 @@ Tech Stack
     PDF Generation
         ReportLab
 
-Project Workflow
+Project Workflow:
 
-User uploads a resume.
+User uploads a resume:
+
     Resume text is extracted and cleaned.
     Skills and resume sections are identified.
     Job Description is analyzed.
